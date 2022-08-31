@@ -7,7 +7,7 @@ Software Engineer
 I'm a Full Stack Software Engineer. CompSci. Geek, AI, wearables, web2/web3, WebGL, GLSL, generative art, gaming. All things Javascript, Python, C++ & more.
 
 * 🌍  I'm based in Los Angeles, CA
-* 🧠  I'm learning I'm currently learning Typescript
+* 🧠  I'm currently learning Typescript
 
 ### Skills
 
